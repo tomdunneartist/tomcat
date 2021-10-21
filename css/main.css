@@ -49,9 +49,20 @@ figure img {
 }
 
 .cat02 {
-  width:50%;
-  margin-top: 1vw;
-  margin-left: 5vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 110%;
+  margin-left: 15em;
+}
+
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 110%;
+  margin-left: 16em;
+  text-align: center;
 }
 
 .work-with-us {
@@ -76,6 +87,7 @@ figure img {
 
 .work-title {
   font-weight:100;
+  font-size: 0.8em;
 }
 
 .container02 {
@@ -120,6 +132,7 @@ figure img {
 .lazy img {
   transform: scale(1.3); 
 }
+
 
 .in-view {
   opacity: 1;

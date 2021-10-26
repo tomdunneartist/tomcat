@@ -51,11 +51,13 @@ figure img {
     font-family: 'Inter';
 }
 
+.work-category{
+    display: none;
+  }
+
 .cat02 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
+    width:20%;
+    margin-bottom: 10vw;
   }
 
   .montreal {

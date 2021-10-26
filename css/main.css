@@ -49,13 +49,10 @@ figure img {
 }
 
 .cat02 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 110%;
-  margin-left: 15em;
+  width:50%;
+  margin-top: 1vw;
+  margin-left: 5vw;
 }
-
 
 .work-with-us {
   padding: 0.5vw;
@@ -80,6 +77,13 @@ figure img {
 .work-title {
   font-weight:100;
   font-size: 0.8em;
+}
+
+.work-category{
+  font-weight:100;
+  font-size: 0.6em;
+  line-height: 0em;
+  color:rgb(145, 143, 143);
 }
 
 .container02 {
@@ -456,6 +460,7 @@ a.external-dark::after {
 .credits {
   font-size: 16px;
   line-height: 1.4em;
+  margin-top: 0.8em;
 }
   .credits ul {
       list-style: none;
